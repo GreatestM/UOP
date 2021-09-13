@@ -1,4 +1,3 @@
-#!/bin/bash
 def new_line:
 
  print
